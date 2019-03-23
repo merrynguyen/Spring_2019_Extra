@@ -33,7 +33,7 @@
         }
     },
     "texturesets": {
-        "Coin": {
+        "ground": {
             "shader": "Main shader"
         }
     }
