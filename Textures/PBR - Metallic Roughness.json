@@ -33,7 +33,7 @@
         }
     },
     "texturesets": {
-        "Lotus": {
+        "ground": {
             "shader": "Main shader"
         }
     }
