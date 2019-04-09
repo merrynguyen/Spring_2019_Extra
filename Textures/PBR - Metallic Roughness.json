@@ -33,7 +33,7 @@
         }
     },
     "texturesets": {
-        "ground": {
+        "lambert1": {
             "shader": "Main shader"
         }
     }
